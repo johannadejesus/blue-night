@@ -1,0 +1,9 @@
+<base-datos>  <base-datos> 
+<grupo> <grupo>
+<nombre>Datos Personales</nombre>
+<ejemplos><ejemplos>
+<ejemplo>Nombres </ejemplo>
+<ejemplo>Apellidos</ejemplo>
+<ejemplo>Fecha De Nacimiento</ejemplo>
+<ejemplo>Numero Telefonico</ejemplo>
+<ejemplo>Correo Electronico</ejemplo>
